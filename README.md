@@ -35,3 +35,19 @@ https://github.com/negitorogithub/ArtWolf
 汚い単語リストを参照し、一致したら*に置き換える。
 
 https://github.com/negitorogithub/DeleteDirtyWords
+
+### なにがなんでも魚拓を取ってくる君[chrome拡張]
+魚拓を見たいサイトで、アイコン(Hのマーク)を右クリックすると、3個の魚拓サービスからとってきた魚拓のURLが表示される。
+
+https://qiita.com/unifar/items/551cbe92cd4cdcb3c48e
+ 
+https://github.com/negitorogithub/GetAllGyotaku
+
+### メッセージボトル[Android]
+誰かが書いたメッセージを読んだり、誰かにメッセージを送る、メッセージボトルをイメージしたアプリ。
+
+https://play.google.com/store/apps/details?id=unifar.unifar.messagebottle
+
+https://github.com/negitorogithub/MessageBottle
+
+
