@@ -6,6 +6,7 @@ Githubのリポジトリがごちゃごちゃしてきたので、
 
 ### Lik(kotlinコンパイラ)
  今のところ、変数の型はIntのみで、主に使える構文は四則演算,不等号,val(と言いつつも再代入できる),fun,return,class,インクリメントなど。
+ 
 https://github.com/negitorogithub/Lik
 
 https://qiita.com/unifar/items/beb544c60bdf1cfc73dd
