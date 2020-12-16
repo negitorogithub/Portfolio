@@ -2,6 +2,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=negitorogithub)](https://github.com/negitorogithub)
 
+https://github-readme-stats.vercel.app/api/top-langs?username=negitorogithub
+
 ## はじめに
 これまでに私が作ってきたものの一覧です。
 
