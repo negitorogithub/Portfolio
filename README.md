@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=negitorogithub)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=negitorogithub&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## はじめに
 これまでに私が作ってきたものの一覧です。
