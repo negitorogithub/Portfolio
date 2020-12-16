@@ -2,7 +2,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=negitorogithub)](https://github.com/negitorogithub)
 
-[![lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=negitorogithub)](https://github.com/anuraghazra/github-readme-stats)
 
 ## はじめに
 これまでに私が作ってきたものの一覧です。
