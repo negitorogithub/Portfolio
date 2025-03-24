@@ -25,8 +25,6 @@ https://tensaku.unifar.net/illust/lp
 
 http://unifar.net/mikubox/
 
-https://play.google.com/store/apps/details?id=unifar.unifar.mikubox
-
 https://github.com/negitorogithub/MikuBox
 
 
@@ -58,8 +56,6 @@ https://github.com/negitorogithub/GetAllGyotaku
 
 ### メッセージボトル[Android]
 誰かが書いたメッセージを読んだり、誰かにメッセージを送る、メッセージボトルをイメージしたアプリ。
-
-https://play.google.com/store/apps/details?id=unifar.unifar.messagebottle
 
 https://github.com/negitorogithub/MessageBottle
 
