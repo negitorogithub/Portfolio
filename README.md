@@ -17,7 +17,7 @@ https://github.com/negitorogithub/Lik
 https://qiita.com/unifar/items/beb544c60bdf1cfc73dd
 
 ### tensaku(Webサービス)
-  イラストを添削する人としてもらいたい人をつなげるWebサービス
+  イラストを添削する人としてもらいたい人をつなげるWebサービス(現在ログインできなくなっています)
   
 https://tensaku.unifar.net/illust/lp
 
