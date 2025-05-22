@@ -1,5 +1,3 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=negitorogithub&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=negitorogithub)](https://github.com/negitorogithub)
 
 
@@ -8,6 +6,16 @@
 昔公開していたAndroidアプリは大部分が公開停止になっています。
 
 ## 一覧
+
+### 一行日記(Androidアプリ)
+毎日1行だけ書くためのシンプルな日記アプリです。使いやすさにこだわりました！
+
+Jetpack Compose + Kotlin で構築しました。そのほか、Material 3、ViewModel、StateFlow、Hilt、Roomも使用しています。
+
+近日中にPlayStoreに公開予定です。
+
+[https://github.com/negitorogithub/OneLineADay_Public](https://github.com/negitorogithub/OneLineADay_Public)
+
 
 ### Lik(kotlinコンパイラ)
  今のところ、変数の型はIntのみで、主に使える構文は四則演算,不等号,val(と言いつつも再代入できる),fun,return,class,インクリメントなど。
