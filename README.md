@@ -12,10 +12,11 @@
 
 Jetpack Compose + Kotlin で構築しました。そのほか、Material 3、ViewModel、StateFlow、Hilt、Roomも使用しています。
 
-近日中にPlayStoreに公開予定です。
+PlayStoreで公開中です。
 
 [https://github.com/negitorogithub/OneLineADay_Public](https://github.com/negitorogithub/OneLineADay_Public)
 
+[https://play.google.com/store/apps/details?id=net.unifar.mydiary](https://play.google.com/store/apps/details?id=net.unifar.mydiary)
 
 ### Lik(kotlinコンパイラ)
  今のところ、変数の型はIntのみで、主に使える構文は四則演算,不等号,val(と言いつつも再代入できる),fun,return,class,インクリメントなど。
